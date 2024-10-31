@@ -1,0 +1,14 @@
+{
+  "name": "inspirelabs/bluemedia-woocommerce",
+  "authors": [
+    {
+      "name": "iLabs",
+      "email": "biuro@inspirelabs.pl"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ilabs\\BM_Woocommerce\\": "src/"
+    }
+  }
+}
